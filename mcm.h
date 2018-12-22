@@ -1,7 +1,7 @@
 //mcm.h v1.0
-//Definitionen fuer Motorcontroller-Modul
-//BO-GT
-//Hochschule Bochum 2011
+//Definitions for Motor Control Module (MCM)
+//Horus
+//SEV-CUT-18
 
 extern volatile float current_speed1; //current speed sent by Tritium 1 (for speed control)
 extern volatile float current_speed2; //current speed sent by Tritium 2 (for speed control)
