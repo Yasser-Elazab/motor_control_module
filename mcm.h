@@ -29,12 +29,6 @@ extern volatile float current_speed2; //current speed sent by Tritium 2 (for spe
 #define MCM_BACKINGLIGHT_NO			0x40
 #define MCM_DAYTIMELIGHT_NO			0x80
 
-
-//Display
-/*Not used for the current version*/
-#define MCM_DISPLAY_TIME			3	//show page 3s
-#define MCM_MAX_PAGE				3	//number of pages that can be displayed
-
 //CAN-configuration
 #define MCM_IDENT_MASTER_ID			0x540
 #define MCM_DRVCONTROL_MASTER_ID	0x541
