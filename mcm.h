@@ -31,6 +31,7 @@ extern volatile float current_speed2; //current speed sent by Tritium 2 (for spe
 
 
 //Display
+/*Not used for the current version*/
 #define MCM_DISPLAY_TIME			3	//show page 3s
 #define MCM_MAX_PAGE				3	//number of pages that can be displayed
 
